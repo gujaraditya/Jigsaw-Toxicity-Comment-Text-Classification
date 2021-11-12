@@ -25,12 +25,16 @@ This is a binary classification problem, 0 means non-toxic and 1 means toxic com
 •	severe_toxicity: comments which are highly toxic.
 •	Degree of toxicity mentioned for following identities:
 
-Demographic Category	Identities
-Gender	Male, Female, Transgender, Other gender
-Sexual Orientation	Heterosexual, Homosexual, Bisexual,Other sexual orientation
-Religion	Christian, Jewish, Muslim, Hindu, Buddhist, Atheist, Other religion
-Race or ethnicity	Black, White, Latino/Latina/Latinx,Other race or ethnicity
-Disability	Physical disability,Intellectual or learning disability, Psychiatric disability or mental illness, Other disability
+Demographic Category	                     Identities
+Gender	                                   Male, Female, Transgender, Other gender
+
+Sexual Orientation	                       Heterosexual, Homosexual, Bisexual,Other sexual orientation
+
+Religion	                                 Christian, Jewish, Muslim, Hindu, Buddhist, Atheist, Other religion
+
+Race or ethnicity	                         Black, White, Latino/Latina/Latinx,Other race or ethnicity
+
+Disability	                               Physical disability,Intellectual or learning disability, Psychiatric disability or mental illness, Other disability
 
 •	created_date: date when comment updated
 •	Other expressions with the count each expression received: funny , wow , sad , likes, disagree

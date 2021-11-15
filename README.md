@@ -1,6 +1,7 @@
 # Jigsaw-Toxicity-Comment-Text-Classification
 Case Study on text classification based on AI, Machine Learning , Deep Learning , NLP
 
+Visit Blog: https://medium.com/@gujaraditya9623/jigsaw-unintended-bias-in-toxicity-classification-81073e0b91f6
 
 # Introduction:
 In this world of online conversations, as this brings the world to communicate on various social media and other platforms. This comes with great responsibilities for the platforms to analyze the comments by users that might be offensive, threatening, targeting to some identity or other such toxic comments. Organizations are attempting to build advanced AI mechanisms using Natural Language Processing ways to deal with such text based problems.
